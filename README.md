@@ -9,7 +9,7 @@
 ## 👩‍💻 About Me
 <img align="right" alt="coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Finall-Year B.Tech CSE (AI & ML) Student at Bennett University
+Final-Year B.Tech CSE (AI & ML) Student at Bennett University
 
 Passionate about Artificial Intelligence, Machine Learning and NLP
 
