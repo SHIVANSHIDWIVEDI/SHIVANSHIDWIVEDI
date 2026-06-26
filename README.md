@@ -55,6 +55,9 @@ Exploring AI-powered applications and real-world problem solving
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+![PyCharm](https://skillicons.dev/icons?i=pycharm)
+![Anaconda](https://skillicons.dev/icons?i=anaconda)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="48" height="48"/>
 
 ---
 
