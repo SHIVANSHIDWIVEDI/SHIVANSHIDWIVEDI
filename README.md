@@ -7,9 +7,7 @@
 
 
 ## 👩‍💻 About Me
-<img align="right" alt="coding" width="300"
-style="margin-top:50px;"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 Third-Year B.Tech CSE (AI & ML) Student at Bennett University
 
