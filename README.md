@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;AWS+Certified+AI+Practitioner;Competitive+Programmer;Problem+Solver" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+ML+Enthusiast;AWS+Certified+AI+Practitioner;NPTEL+Gold+Medalist;Competitive+Programmer;Problem+Solver" />
 </p>
 
 
